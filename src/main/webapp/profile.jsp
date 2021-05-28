@@ -10,7 +10,9 @@
 <head>
     <title>Profile</title>
 </head>
-<body>
+<body class="profile-body">
+<%@ include file="partials/navbar.jsp" %>
+
 <h1>Hello you made it to the Profile page</h1>
 <h2>Congrats!!! </h2>
 

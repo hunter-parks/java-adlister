@@ -16,6 +16,9 @@
         background: cornflowerblue;
         color: white;
     }
+    .profile-body {
+
+    }
 </style>
 <body>
 
